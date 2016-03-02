@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "guitarshop": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "guitarshop",
+    "username": "",
+    "password": "",
+    "name": "guitarshop",
+    "connector": "mongodb"
+  }
+}
